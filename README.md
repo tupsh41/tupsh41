@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm T'le Upshaw, an IT Professional.
 <!--
 **tupsh41/tupsh41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
